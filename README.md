@@ -12,3 +12,6 @@ Owen Taylor - owen-taylor
 Aieshah Safi - aisa9142
 
 Kayla Zhong - kaylaz1
+
+This is "a couple of lines to the bottom...
+of the file describing your project." by Eric Graham
